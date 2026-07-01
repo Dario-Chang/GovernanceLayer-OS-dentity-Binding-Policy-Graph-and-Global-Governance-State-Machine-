@@ -163,11 +163,9 @@ All operational systems remain fully protected under existing or pending intelle
 
 ---
 
-## Non‑Enablement Statement
-This repository intentionally omits all implementation details.  
-A person skilled in the art cannot construct a functional system from this text alone.  
-All proprietary embodiments remain confidential and protected.
+##Scope of Conceptual Disclosure
 
+This publication establishes the complete architectural and topological framework for the governance‑layer substrate. It explicitly defines the interactions, state transitions, and conceptual boundaries of the system. To protect proprietary trade secrets, this document omits localized execution mechanics (e.g., specific algorithms, dynamic weighting functions, and cryptographic token schemas). This disclosure establishes the state of the art for the architecture itself, independent of any specific computational embodiment. 
 ---
 
 ## Audience & Indexing Notice
