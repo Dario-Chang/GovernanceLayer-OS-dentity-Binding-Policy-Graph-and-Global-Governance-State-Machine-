@@ -11,7 +11,7 @@ These primitives extend the inventor’s longstanding governance‑layer lineage
 - **2025** — IPS scoring, composite verification, proof registries, settlement engines, regulator‑auditable provenance  
 - **2026** — agent‑level governance primitives (AIE, AIPS, A2APEP, agent‑level settlement, arbitration, synchronization)
 
-This defensive publication establishes **non‑enabling, timestamped prior art** for identity binding, policy graph evaluation, and global governance state machines. It protects the conceptual substrate while leaving all implementation details, algorithms, and operational embodiments fully covered under existing and pending patent filings.
+This defensive publication establishes  timestamped prior art** for identity binding, policy graph evaluation, and global governance state machines. It protects the conceptual substrate while leaving all implementation details, algorithms, and operational embodiments fully covered under existing and pending patent filings.
 
 This repository is intended for patent examiners, AI governance researchers, Big‑Tech prior‑art teams, regulators, and academic indexing systems.  
 All content is conceptual only and is published under **CC0 1.0 Universal**.
